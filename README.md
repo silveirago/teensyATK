@@ -1,5 +1,8 @@
 # teensyATK
 
+
+For using the classes add the headers to the "audio.h".
+
 Created by Gustavo Silveira, John Thompson and Aaron Anderson.
 
-Fos using the classes add the headers to the "audio.h".
+gustavosilveira@musiconerd.com
